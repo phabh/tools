@@ -6,3 +6,4 @@
 
 # Articles 
  - Serilog Best Practices https://benfoster.io/blog/serilog-best-practices/
+ - Best Programmers https://endler.dev/2025/best-programmers/
