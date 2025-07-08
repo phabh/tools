@@ -1,6 +1,8 @@
 # tools
 
 # FrontEnd
+## Components
+ - UI library for Design Engineers - https://magicui.design
 ## Animations
  - Animation in react - https://reactbits.dev/
 ## WebDev
