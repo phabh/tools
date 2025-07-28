@@ -4,6 +4,7 @@
 ## Components
  - PatternCraft Craft Beautifu Patterns Backgrounds - https://patterncraft.fun/
  - UI library for Design Engineers - https://magicui.design
+ - SeraUI - https://seraui.seraprogrammer.com/
 ## Animations
  - Animation in react - https://reactbits.dev/
 ## WebDev
