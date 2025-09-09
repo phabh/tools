@@ -1,5 +1,8 @@
 # tools
 
+# Articles
+9 Useful Coding Tools Every Developer Should Bookmark - https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6?ref=dailydev
+
 # FrontEnd
 
 ## Components
